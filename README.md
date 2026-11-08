@@ -22,6 +22,9 @@
   
 ## 🤝 Open-Source Contributions
 
+- **[erocarrera/pefile](https://github.com/erocarrera/pefile)** — **[PR #653](https://github.com/erocarrera/pefile/pull/653)** —
+Found via Atheris fuzzing and fixed a crash on malformed PE files (truncated load config directory)
+
 - **[OWASP/DockSec](https://github.com/OWASP/DockSec)** —
   **[PR #152](https://github.com/OWASP/DockSec/pull/152)** —
   Added log-file support, graceful path handling, documentation, and tests
